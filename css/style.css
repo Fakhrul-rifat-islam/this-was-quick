@@ -1,0 +1,65 @@
+header{
+    padding: 30px;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;;
+}
+.container{
+    padding-bottom: 60px;
+}
+
+
+.logo{width: 50%;float: left;}
+.logo img{
+   ;
+}
+
+nav{
+    width: 50%;
+    float: left;
+    
+}
+
+nav ul{
+    list-style: none;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline;
+    padding: 14px;
+}
+
+nav ul li a{
+    
+font-size: 26px;
+    
+text-decoration: none;
+    
+color: black;
+}
+h1 {text-align: center;}
+section{}
+div p{
+    text-align: left;
+}
+.study{
+    padding-left: 289px;
+}
+h1 span{
+    color: blue;
+}
+div .h2r{text-align: left;}
+
+.project{
+    width: 50%;
+    float: left;
+}
+.project-left{
+    text-align: right;
+}
+.project-left h2{}
+.project-left p{
+    text-align: right;
+}
+
+.project-right{padding: 22px 0 0 33px;}
+.project-right h2{}
